@@ -1,25 +1,3 @@
 # BinselStube 🖌️
 
-Der Ort für Pixelart, Logos, Vorlagen und alles andere was so visuell anfällt 
-
-            ___ _      _  _         _            
-           | _ |_)_ _ | || |__ _ __| |_____ _ _  
-           | _ \ | ' \| __ / _` / _| / / -_) ' \ 
-           |___/_|_||_|_||_\__,_\__|_\_\___|_||_|
-                                       
-          XX                                    XX
-        XX..X                                  X..XX
-      XX.....X                                X.....XX
- XXXXX.....XX                                  XX.....XXXXX
-X |......XX%,.@                              @#%,XX......| X
-X |.....X  @#%,.@                          @#%,.@  X.....| X
-X  \...X     @#%,.@                      @#%,.@     X.../  X
- X# \.X        @#%,.@                  @#%,.@        X./  #
-  ##  X          @#%,.@              @#%,.@          X   #
-  "# #X            @#%,.@          @#%,.@            X ##
-    '#               @#%,.@      @#%,.@               #'
-                       @#%.,@  @#%,.@             
-                        @#%.@#%,.@               
-                           @#%,.@                  
-                         @#%,.@  @@               
-                          @@@  @@@                 
+Der Ort für Pixelart, Logos, Vorlagen und alles andere was so visuell anfällt
